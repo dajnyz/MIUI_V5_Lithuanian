@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generated with KDev Library -->
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>Pranešimas</item>
+        <item>El. paštas</item>
+        <item>SMS</item>
+        <item>Signalas</item>
+    </string-array>
+    <integer-array name="reminder_methods_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+    <string-array name="reminder_minutes_labels">
+        <item>0 min.</item>
+        <item>1 min.</item>
+        <item>5 min.</item>
+        <item>10 min.</item>
+        <item>15 min.</item>
+        <item>20 min.</item>
+        <item>25 min.</item>
+        <item>30 min.</item>
+        <item>45 min.</item>
+        <item>1 val.</item>
+        <item>2 val.</item>
+        <item>3 val.</item>
+        <item>12 val.</item>
+        <item>24 val.</item>
+        <item>2 d.</item>
+        <item>1 sav.</item>
+    </string-array>
+    <integer-array name="reminder_minutes_values">
+        <item>0</item>
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+        <item>720</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+    </integer-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Nėra</item>
+        <item>0 min.</item>
+        <item>1 min.</item>
+        <item>5 min.</item>
+        <item>10 min.</item>
+        <item>15 min.</item>
+        <item>20 min.</item>
+        <item>25 min.</item>
+        <item>30 min.</item>
+        <item>45 min.</item>
+        <item>1 val.</item>
+        <item>2 val.</item>
+        <item>3 val.</item>
+        <item>12 val.</item>
+        <item>24 val.</item>
+        <item>2 d.</item>
+        <item>1 sav.</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+        <item>720</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Numatytoji lokalė</item>
+        <item>Šeštadienis</item>
+        <item>Sekmadienis</item>
+        <item>Pirmadienis</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_values">
+        <item>-1</item>
+        <item>7</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Maršalo salos</item>
+        <item>Midway salos</item>
+        <item>Havajai</item>
+        <item>Aliaska</item>
+        <item>Ramiojo vandenyno laikas</item>
+        <item>Tichuana</item>
+        <item>Arizona</item>
+        <item>Čihuahua</item>
+        <item>Mountain Time</item>
+        <item>Centrinė Amerika</item>
+        <item>Central Time</item>
+        <item>Meksikas</item>
+        <item>Saskačevanas</item>
+        <item>Bogota</item>
+        <item>Eastern Time</item>
+        <item>Venesuela</item>
+        <item>Atlanto vandenyno laikas (Barbadosas)</item>
+        <item>Atlanto vandenyno laikas (Kanada)</item>
+        <item>Manausas</item>
+        <item>Santjagas</item>
+        <item>Niūfaundlendas</item>
+        <item>Brazilija</item>
+        <item>Buenos Airės</item>
+        <item>Grenlandija</item>
+        <item>Montevidėjas</item>
+        <item>Vidurio Atlanto</item>
+        <item>Azorų salos</item>
+        <item>Žaliojo Kyšulio salos</item>
+        <item>Kasablanka</item>
+        <item>Londonas, Dublinas</item>
+        <item>Amsterdamas, Berlynas</item>
+        <item>Belgradas</item>
+        <item>Briuselis</item>
+        <item>Sarajevas</item>
+        <item>Vindhukas</item>
+        <item>Vakarų Afrikos laikas</item>
+        <item>Amanas, Jordanas</item>
+        <item>Atėnai, Stambulas</item>
+        <item>Beirutas, Libanas</item>
+        <item>Kairas</item>
+        <item>Helsinkis</item>
+        <item>Jeruzalė</item>
+        <item>Minskas</item>
+        <item>Hararė</item>
+        <item>Bagdadas</item>
+        <item>Maskva</item>
+        <item>Kuveitas</item>
+        <item>Nairobis</item>
+        <item>Teheranas</item>
+        <item>Baku</item>
+        <item>Tbilisis</item>
+        <item>Jerevanas</item>
+        <item>Dubajus</item>
+        <item>Kabulas</item>
+        <item>Islamabadas, Karačis</item>
+        <item>Uralskas</item>
+        <item>Jekaterinburgas</item>
+        <item>Kalkuta</item>
+        <item>Šri Lanka</item>
+        <item>Katmandu</item>
+        <item>Astana</item>
+        <item>Jangonas</item>
+        <item>Krasnojarskas</item>
+        <item>Bankokas</item>
+        <item>Pekinas</item>
+        <item>Honkongas</item>
+        <item>Irkutskas</item>
+        <item>Kuala Lumpūras</item>
+        <item>Pertas</item>
+        <item>Taipėjus</item>
+        <item>Seulas</item>
+        <item>Tokijas, Osaka</item>
+        <item>Jakutskas</item>
+        <item>Adelaidė</item>
+        <item>Darvinas</item>
+        <item>Brisbenas</item>
+        <item>Hobartas</item>
+        <item>Sidnėjus, Kanbera</item>
+        <item>Vladivostokas</item>
+        <item>Guamas</item>
+        <item>Magadanas</item>
+        <item>Oklandas</item>
+        <item>Fidžis</item>
+        <item>Tonga</item>
+    </string-array>
+    <string-array name="timezone_values">
+        <item>Ramiojo vandenyno/Madžiuras</item>
+        <item>Ramiojo vandenyno/Midvėjaus</item>
+        <item>Ramiojo vandenyno/Honolulu</item>
+        <item>Amerika/Ankoridžas</item>
+        <item>Amerika/Los Andželas</item>
+        <item>Amerika/Tichuana</item>
+        <item>Amerika/Finiksas</item>
+        <item>Amerika/Čihuahua</item>
+        <item>Amerika/Denveris</item>
+        <item>Amerika/Kosta Rika</item>
+        <item>Amerika/Čikagoje</item>
+        <item>Amerika/Meksikas</item>
+        <item>Amerika/Regina</item>
+        <item>Amerika/Bogota</item>
+        <item>Amerika/Niujorkas</item>
+        <item>Amerika/Karakasas</item>
+        <item>Amerika/Barbadosas</item>
+        <item>Amerika/Halifaksas</item>
+        <item>Amerika/Manausas</item>
+        <item>Amerika/Santjagas</item>
+        <item>Amerika/Sent Džonsas</item>
+        <item>Amerika/San Paulas</item>
+        <item>Amerika/Argentina/Buenos Airės</item>
+        <item>Amerika/Gotabas</item>
+        <item>Amerika/Montevidėjas</item>
+        <item>Atlanto vandenyno/Pietų Džordžija</item>
+        <item>Atlanto vandenyno/Azorų salos</item>
+        <item>Atlanto vandenyno/Žaliasis Kyšulys</item>
+        <item>Afrika/Kasablanka</item>
+        <item>Europa/Londonas</item>
+        <item>Europa/Amsterdamas</item>
+        <item>Europa/Belgradas</item>
+        <item>Europa/Briuselis</item>
+        <item>Europa/Sarajevas</item>
+        <item>Afrika/Vindhukas</item>
+        <item>Afrika/Brazavilis</item>
+        <item>Azija/Amanas</item>
+        <item>Europa/Atėnai</item>
+        <item>Azija/Beirutas</item>
+        <item>Afrika/Kairas</item>
+        <item>Europa/Helsinkis</item>
+        <item>Azija/Jeruzalė</item>
+        <item>Europa/Minskas</item>
+        <item>Afrika/Hararė</item>
+        <item>Azija/Bagdadas</item>
+        <item>Europa/Maskva</item>
+        <item>Azija/Kuveitas</item>
+        <item>Afrika/Nairobis</item>
+        <item>Azija/Teheranas</item>
+        <item>Azija/Baku</item>
+        <item>Azija/Tbilisis</item>
+        <item>Azija/Jerevanas</item>
+        <item>Azija/Dubajus</item>
+        <item>Azija/Kabulas</item>
+        <item>Azija/Karačis</item>
+        <item>Azija/Oriolas</item>
+        <item>Azija/Jekaterinburgas</item>
+        <item>Azija/Kalkuta</item>
+        <item>Azija/Kolombas</item>
+        <item>Azija/Katmandu</item>
+        <item>Azija/Almata</item>
+        <item>Azija/Rangūnas</item>
+        <item>Azija/Krasnojarskas</item>
+        <item>Azija/Bankokas</item>
+        <item>Azija/Šanchajus</item>
+        <item>Azija/Honkongas</item>
+        <item>Azija/Irkutskas</item>
+        <item>Azija/Kuala Lumpūras</item>
+        <item>Australija/Pertas</item>
+        <item>Azija/Taipėjus</item>
+        <item>Azija/Seulas</item>
+        <item>Azija/Tokijas</item>
+        <item>Azija/Jakutskas</item>
+        <item>Australija/Adelaidė</item>
+        <item>Australija/Darvinas</item>
+        <item>Australija/Brisbenas</item>
+        <item>Australija/Hobartas</item>
+        <item>Australija/Sidnėjus</item>
+        <item>Azija/Vladivostokas</item>
+        <item>Ramiojo vandenyno/Guamas</item>
+        <item>Azija/Magadanas</item>
+        <item>Ramiojo vandenyno/Oklandas</item>
+        <item>Ramiojo vandenyno/Fidžis</item>
+        <item>Ramiojo vandenyno/Tongatapu</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Užimtas</item>
+        <item>Pasiekiama</item>
+        <item>Bandomasis</item>
+    </string-array>
+    <integer-array name="availability_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+    <string-array name="visibility">
+        <item>Numatytasis</item>
+        <item>Privatus</item>
+        <item>Viešas</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>pirmas</item>
+        <item>antras</item>
+        <item>trečias</item>
+        <item>ketvirtas</item>
+        <item>paskutinis</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Nėra atsako</item>
+        <item>Taip</item>
+        <item>Galbūt</item>
+        <item>Ne</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Tik šis įvykis</item>
+        <item>Šis ir būsimi įvykiai</item>
+        <item>Visi įvykiai</item>
+    </string-array>
+    <integer-array name="delete_repeating_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Šis ir būsimi įvykiai</item>
+        <item>Visi įvykiai</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Tik šis įvykis</item>
+        <item>Visi sekos įvykiai</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Diena</item>
+        <item>Savaitė</item>
+        <item>Mėnuo</item>
+        <item>Darbotvarkė</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Vėluojama tik kelias minutes.</item>
+        <item>Būkite ten po maždaug 10 min.</item>
+        <item>Pirmyn, pradėkite be manęs.</item>
+        <item>Deja, nespėsiu. Turėsime suplanuoti iš naujo.</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Vidurio Australija – Š. Teritor.</item>
+        <item>Vidurio Australija – P. Teritor.</item>
+        <item>Rytų Australija – Kvinslandas</item>
+        <item>Rytų Australija – N. P. Velsas</item>
+        <item>ŠA kalnų žiem. l. – Doson Krikas</item>
+        <item>ŠA cen. žiem. l. – Saskačevanas</item>
+        <item>ŠA Rytų žiemos l. – Atikokanas</item>
+        <item>Atlanto žiemos laikas – Kvebekas</item>
+        <item>Havajų–Aleutų laikas – Havajai</item>
+        <item>Havajų–Aleutų laikas – Aliaska</item>
+        <item>Ramiojo v. žiem. l. – Metlakatla</item>
+        <item>ŠA kalnų žiemos laikas – Arizona</item>
+        <item>Ramiojo v. laikas – Kalifornija</item>
+        <item>Š. Amerikos kalnų l. – Čihuahua</item>
+        <item>ŠA vidurio laikas – Tamaulipasas</item>
+        <item>Š. Amerikos kalnų l. – Sonora</item>
+        <item>Rytų Afrikos laikas</item>
+        <item>Atlanto žiemos laikas</item>
+        <item>Atlanto žiemos laikas</item>
+        <item>Rytų Europos laikas</item>
+        <item>Kaliningrado laikas</item>
+        <item>Amazonės žiem. laik. – Rondonija</item>
+        <item>Brazilijos laikas – Para</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>Sint Martenas</item>
+        <item>Karibų Nyderlandai</item>
+        <item>Kiurasao</item>
+        <item>Pietų Sudanas</item>
+    </string-array>
+</resources>

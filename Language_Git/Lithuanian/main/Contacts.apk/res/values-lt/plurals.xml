@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generated with KDev Library -->
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">Kontaktai (-ų) su telefonų numeriais: %d</item>
+        <item quantity="one">1 kontaktas su telefono numeriu</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">Kontaktai: %d</item>
+        <item quantity="one">1 kontaktas</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Rasta %d</item>
+        <item quantity="one">rastas 1</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Rasta %d</item>
+        <item quantity="one">rastas 1</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">sujungta iš %0$d šaltinių (-io)</item>
+        <item quantity="one">nesujungta</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">Grupių: %0$d</item>
+        <item quantity="one">1 grupė</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d žm. iš %2$s</item>
+        <item quantity="one">%1$d žm. iš %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d žm.</item>
+        <item quantity="one">%1$d žm.</item>
+    </plurals>
+    <plurals name="group_list_num_numbers_in_group">
+        <item quantity="other">numerių: %1$d</item>
+        <item quantity="one">numerio: %1$d</item>
+    </plurals>
+     <plurals name="notification_voicemail_title">
+        <item quantity="other">Balso pranešimai: %1$d</item>
+        <item quantity="one">Balso pranešimas</item>
+     </plurals>
+     <plurals name="number_of_items_selected">
+        <item quantity="other">Pasirinkti: %1$d</item>
+        <item quantity="one">Pasirinktas: %1$d</item>
+     </plurals>
+     <plurals name="group_add_success_toast">
+        <item quantity="other">Sėkmingai pridėta %1$d kontaktų</item>
+        <item quantity="one">Sėkmingai pridėta %1$d kontakto</item>
+     </plurals>
+     <plurals name="smart_group_member_count">
+        <item quantity="other">Kontaktų: %1$d</item>
+        <item quantity="one">Kontakto: 1</item>
+     </plurals>
+     <plurals name="numSelectedSimContacts">
+        <item quantity="other">Pasirinkti kontaktai: %1$d</item>
+        <item quantity="zero">Pasirinkti kontaktai: %1$d</item>
+        <item quantity="one">Pasirinktas kontaktas: %1$d</item>
+     </plurals>
+</resources>

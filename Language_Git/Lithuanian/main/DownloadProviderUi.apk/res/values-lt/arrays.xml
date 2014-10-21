@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generated with KDev Library -->
+<resources>
+     <string-array name="prefEntries_max_bytes_limit">
+		<item>Neribojama</item>
+        <item>20 МB</item>
+        <item>10 МB</item>
+        <item>5 МB</item>
+        <item>2 МБ</item>
+        <item>1 МB</item>
+        <item>512 КB</item>
+        <item>Wi-Fi</item>
+   </string-array>
+</resources>
